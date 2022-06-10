@@ -1,5 +1,6 @@
 import React from "react";
 import parvez from "../../Image/david.png";
+import About from "./About";
 import Footer from "./Footer";
 import Form from "./Form";
 import Skill from "./Skill";
@@ -35,6 +36,9 @@ const Home = () => {
             </div>
           </div>
         </div>
+      </div>
+      <div className="mt-5">
+        <About></About>
       </div>
       <Web className="bg-black"></Web>
       <div className="mt-8">
