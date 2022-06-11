@@ -12,8 +12,8 @@ import html from "../../Image/html.png";
 const Skill = () => {
   return (
     <div>
-      <div className=" container mx-auto grid grid-cols-1 md:grid-cols-4 gap-5 mt-20 gap-y-8">
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+      <div className=" container mx-auto grid grid-cols-1 md:grid-cols-5 gap-5 mt-20 gap-y-8">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={node} alt="Shoes" />
           </figure>
@@ -21,7 +21,7 @@ const Skill = () => {
             <h2 class="card-title title">Node Js</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={mongo} alt="Shoes" />
           </figure>
@@ -29,7 +29,7 @@ const Skill = () => {
             <h2 class="card-title title">Mongo DB</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={react} alt="Shoes" />
           </figure>
@@ -37,7 +37,7 @@ const Skill = () => {
             <h2 class="card-title title">React JS</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={es6} alt="Shoes" />
           </figure>
@@ -45,7 +45,7 @@ const Skill = () => {
             <h2 class="card-title title">ECMA Script-6</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={java} alt="Shoes" />
           </figure>
@@ -53,7 +53,7 @@ const Skill = () => {
             <h2 class="card-title title">Java Script</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={tailwind} alt="Shoes" />
           </figure>
@@ -61,7 +61,7 @@ const Skill = () => {
             <h2 class="card-title title">Tailwind CSS</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={bootstrap} alt="Shoes" />
           </figure>
@@ -69,7 +69,7 @@ const Skill = () => {
             <h2 class="card-title title">BootStarp</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={css} alt="Shoes" />
           </figure>
@@ -77,7 +77,7 @@ const Skill = () => {
             <h2 class="card-title title">CSS</h2>
           </div>
         </div>
-        <div class="card w-52 bg-base-100 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
+        <div class="card w-32 shadow-xl transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-black duration-300">
           <figure>
             <img src={html} alt="Shoes" />
           </figure>

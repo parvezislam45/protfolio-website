@@ -19,7 +19,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Web Site Development</h2>
+            <h2 class="text-center text-2xl service">Web Site Development</h2>
            
           </div>
         </div>
@@ -32,7 +32,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Design Full Web Site</h2>
+            <h2 class="text-center text-2xl service">Design Full Web Site</h2>
            
           </div>
         </div>
@@ -45,7 +45,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Front end Design Web Page</h2>
+            <h2 class="text-center text-2xl service">Front end Design Web Page</h2>
             
           </div>
         </div>
@@ -58,7 +58,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Back-End Data Management</h2>
+            <h2 class="text-center text-2xl service">Back-End Data Management</h2>
             
           </div>
         </div>
@@ -71,7 +71,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Server & Cloud Management</h2>
+            <h2 class="text-center text-2xl service">Server & Cloud Management</h2>
             
           </div>
         </div>
@@ -84,7 +84,7 @@ const MyService = () => {
             />
           </figure>
           <div class="card-body text-center">
-            <h2 class="text-center text-2xl title">Deploy , Domain & Hosting Support</h2> 
+            <h2 class="text-center text-2xl service">Deploy , Domain & Hosting Support</h2> 
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 .bg-banner {
-    background-image: url('./Image/mqdefault.jpg');
+    background-image: url('./Image/giv.gif');
     background-size: cover;
     background-repeat: no-repeat;
     height: 80vh;
@@ -18,4 +18,8 @@
 }
 .title{
     font-family: 'Tapestry';
+    font-size: 18px;
+}
+.service{
+    font-family: 'Felipa'
 }
